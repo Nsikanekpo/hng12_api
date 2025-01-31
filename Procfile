@@ -1,1 +1,1 @@
-web: gunicorn hng_12_api.wsgi:application 
+web: gunicorn hng12_api.wsgi:application 
